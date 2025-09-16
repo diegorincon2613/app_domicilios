@@ -6,21 +6,21 @@
 ---
 
 ## ✨ Descripción
-La aplicación actualmente cuenta con la **parte visual (interfaz de usuario)**, diseñada para mostrar cómo sería la experiencia del usuario.  
+La aplicación actualmente cuenta con la **parte visual**, diseñada para mostrar cómo sería la experiencia del usuario.  
 Todavía no incluye toda la lógica de negocio ni la conexión a base de datos, pero fue un **gran ejercicio para aprender diseño y estructura de una app**.  
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 - HTML  
-- CSS  
-- JavaScript  
+- CSS   
 - Bootstrap  
 
 ---
 
 ## 📷 Capturas de pantalla
-*(Aquí puedes agregar imágenes o GIFs de tu app, ejemplo)*  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4510d50-3072-4be2-9190-50ceee19394c" />
+
 
 ```markdown
 ![Vista principal](screenshot1.png)
