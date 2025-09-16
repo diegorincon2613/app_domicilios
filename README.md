@@ -19,9 +19,7 @@ Todavía no incluye toda la lógica de negocio ni la conexión a base de datos, 
 ---
 
 ## 📷 Capturas de pantalla
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4510d50-3072-4be2-9190-50ceee19394c" />
+<img width="921" height="428" alt="image" src="https://github.com/user-attachments/assets/46a51135-0a5b-421c-95c1-41e8259efc6d" />
 
 
-```markdown
-![Vista principal](screenshot1.png)
-![Pantalla de pedidos](screenshot2.png)
+
