@@ -18,7 +18,7 @@ Todavía no incluye toda la lógica de negocio ni la conexión a base de datos, 
 
 ---
 
-## 📷 
+## 📷 REFERENCIA
 <img width="921" height="428" alt="image" src="https://github.com/user-attachments/assets/46a51135-0a5b-421c-95c1-41e8259efc6d" />
 
 
